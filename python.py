@@ -3,7 +3,7 @@ num1 = int(input('Enter first number: '))
 num2 = int(input ('Enter second number: '))
 
 # Add two numbers
-sum1 = float(num1 + num2)
+sum = float(num1 + num2)
 
 # Display the sum
-print(f'The sum of {num1} and {num2} is {sum1}')
+print(f'The sum of {num1} and {num2} is {sum}')
