@@ -2,7 +2,7 @@
 num1 = int(input('Enter first number: '))
 num2 = int(input ('Enter second number: '))
 
-# Add two numbers
+# divide two numbers
 sum= float(num1 / num2)
 
 # Display the sum
